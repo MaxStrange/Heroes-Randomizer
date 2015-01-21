@@ -1,0 +1,12 @@
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\bin\Debug\Heroes Randomizer.exe.config
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\bin\Debug\Heroes Randomizer.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\bin\Debug\Heroes Randomizer.pdb
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes_Randomizer.Form1.resources
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes_Randomizer.Properties.Resources.resources
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\Heroes Randomizer\Heroes Randomizer\bin\Debug\Heroes Randomizer.exe.config
+C:\Users\Max\Documents\Visual Studio 2013\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.exe
+C:\Users\Max\Documents\Visual Studio 2013\Projects\Heroes Randomizer\Heroes Randomizer\obj\Debug\Heroes Randomizer.pdb
